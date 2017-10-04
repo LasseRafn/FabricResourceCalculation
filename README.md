@@ -3,12 +3,12 @@ Fabric Resource Calculation
 
 To calculation the resource per fabric node
 
-#Installation:
+# Installation:
 Install the ACI SDK acicobra-1.0.1_0e-py2.7.egg.
 Here is the documentation for the ACI SDK package:
 https://developer.cisco.com/media/apicDcPythonAPI_v0.1/install.html
 
-#How to use:
+# How to use:
 
 All the codes support three different input methods: wizard, yaml and cli.
 
@@ -26,6 +26,6 @@ All the codes support three different input methods: wizard, yaml and cli.
 <br>To get the help info: python policyTCAM.py cli –h
 
 
-#What are those codes:
+# What are those codes:
 createMo.py: the basic class/module. It also contains useful functions that help programmers for writing their customized scripts.
 
